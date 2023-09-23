@@ -175,7 +175,7 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <bracket type="1" span="2" col="0"/>
+        <defaultClef>F</defaultClef>
         </Staff>
       <Staff id="4">
         <StaffType group="tablature">
@@ -1730,13 +1730,9 @@
     <Staff id="3">
       <Measure len="1/4">
         <voice>
-          <BarLine>
-            <span>1</span>
-            </BarLine>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <TimeSig>
             <subtype>2</subtype>
             <sigN>2</sigN>
@@ -2017,9 +2013,6 @@
         </Measure>
       <Measure>
         <voice>
-          <BarLine>
-            <span>1</span>
-            </BarLine>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>

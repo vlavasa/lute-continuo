@@ -25,9 +25,9 @@
     <spreadSquareBracket>1.2</spreadSquareBracket>
     <spreadCurlyBracket>1.1</spreadCurlyBracket>
     <minSystemSpread>8.5</minSystemSpread>
-    <maxSystemSpread>32</maxSystemSpread>
+    <maxSystemSpread>12</maxSystemSpread>
     <minSpreadSpread>3.5</minSpreadSpread>
-    <maxSpreadSpread>20</maxSpreadSpread>
+    <maxSpreadSpread>9</maxSpreadSpread>
     <maxAkkoladeDistance>6.5</maxAkkoladeDistance>
     <maxPageFillSpread>6</maxPageFillSpread>
     <lyricsPlacement>1</lyricsPlacement>
@@ -80,7 +80,7 @@
     <figuredBassAlignment>0</figuredBassAlignment>
     <figuredBassStyle>0</figuredBassStyle>
     <systemFrameDistance>7</systemFrameDistance>
-    <frameSystemDistance>7</frameSystemDistance>
+    <frameSystemDistance>9</frameSystemDistance>
     <minMeasureWidth>8</minMeasureWidth>
     <barWidth>0.18</barWidth>
     <doubleBarWidth>0.18</doubleBarWidth>
@@ -872,7 +872,7 @@ last modified: $MT$m</oddFooterC>
     <measureNumberFontStyle>2</measureNumberFontStyle>
     <measureNumberColor r="0" g="0" b="0" a="255"/>
     <measureNumberOffset x="0" y="-2"/>
-    <measureNumberPosBelow x="0" y="2"/>
+    <measureNumberPosBelow x="0" y="1"/>
     <measureNumberOffsetType>1</measureNumberOffsetType>
     <measureNumberVPlacement>0</measureNumberVPlacement>
     <measureNumberHPlacement>0</measureNumberHPlacement>

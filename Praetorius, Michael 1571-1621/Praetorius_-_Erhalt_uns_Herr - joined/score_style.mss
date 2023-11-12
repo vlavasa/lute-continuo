@@ -12,7 +12,7 @@
     <pageOddBottomMargin>0.393701</pageOddBottomMargin>
     <pageTwosided>1</pageTwosided>
     <staffUpperBorder>7</staffUpperBorder>
-    <staffLowerBorder>10</staffLowerBorder>
+    <staffLowerBorder>9</staffLowerBorder>
     <staffHeaderFooterPadding>1</staffHeaderFooterPadding>
     <staffDistance>6.5</staffDistance>
     <instrumentNameOffset>1</instrumentNameOffset>
@@ -370,8 +370,8 @@
     <oldStyleMultiMeasureRests>0</oldStyleMultiMeasureRests>
     <mmRestOldStyleMaxMeasures>9</mmRestOldStyleMaxMeasures>
     <mmRestOldStyleSpacing>0.85</mmRestOldStyleSpacing>
-    <hideEmptyStaves>1</hideEmptyStaves>
-    <dontHideStavesInFirstSystem>0</dontHideStavesInFirstSystem>
+    <hideEmptyStaves>0</hideEmptyStaves>
+    <dontHideStavesInFirstSystem>1</dontHideStavesInFirstSystem>
     <enableIndentationOnFirstSystem>1</enableIndentationOnFirstSystem>
     <firstSystemIndentationValue>5</firstSystemIndentationValue>
     <alwaysShowBracketsWhenEmptyStavesAreHidden>0</alwaysShowBracketsWhenEmptyStavesAreHidden>

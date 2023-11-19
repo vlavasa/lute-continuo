@@ -15,10 +15,15 @@
 Everything else is licensed under a Creative Commons Attribution 4.0 International License.</metaTag>
     <metaTag name="creationDate">2023-11-11</metaTag>
     <metaTag name="lyricist">Martin Luther (1483 - 1546)</metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
+    <metaTag name="sourceRevisionId"></metaTag>
     <metaTag name="subtitle"></metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Erhalt uns Herr bei deinem Wort
 , Musae Sioniae , Part VIII (1610): #117</metaTag>
     <Part id="1">
@@ -204,8 +209,7 @@ based on Ross Jallo ed.</text>
             <isHeader>1</isHeader>
             </Clef>
           <KeySig>
-            <concertKey>0</concertKey>
-            <mode>major</mode>
+            <concertKey>-1</concertKey>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -407,9 +411,6 @@ based on Ross Jallo ed.</text>
               <text>Je</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -590,8 +591,7 @@ based on Ross Jallo ed.</text>
             <isHeader>1</isHeader>
             </Clef>
           <KeySig>
-            <concertKey>0</concertKey>
-            <mode>major</mode>
+            <concertKey>-1</concertKey>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -646,9 +646,6 @@ based on Ross Jallo ed.</text>
               <text>bei</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -898,6 +895,9 @@ based on Ross Jallo ed.</text>
               <text>wol</text>
               </Lyrics>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -973,8 +973,7 @@ based on Ross Jallo ed.</text>
             <isHeader>1</isHeader>
             </Clef>
           <KeySig>
-            <concertKey>0</concertKey>
-            <mode>major</mode>
+            <concertKey>-1</concertKey>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -1382,8 +1381,7 @@ based on Ross Jallo ed.</text>
             <isHeader>1</isHeader>
             </Clef>
           <KeySig>
-            <concertKey>0</concertKey>
-            <mode>major</mode>
+            <concertKey>-1</concertKey>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -1418,9 +1416,6 @@ based on Ross Jallo ed.</text>
               <text>uns,</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1498,9 +1493,6 @@ based on Ross Jallo ed.</text>
               <text>steu</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1591,9 +1583,6 @@ based on Ross Jallo ed.</text>
               <text>Je</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1772,8 +1761,7 @@ based on Ross Jallo ed.</text>
             </Clef>
           <KeySig>
             <linkedMain/>
-            <concertKey>0</concertKey>
-            <mode>major</mode>
+            <concertKey>-1</concertKey>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -1835,9 +1823,6 @@ based on Ross Jallo ed.</text>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -1888,9 +1873,6 @@ based on Ross Jallo ed.</text>
               </Note>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               <fret>1</fret>
@@ -2053,9 +2035,6 @@ based on Ross Jallo ed.</text>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -2281,9 +2260,6 @@ based on Ross Jallo ed.</text>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -2305,9 +2281,6 @@ based on Ross Jallo ed.</text>
               </Note>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -2544,6 +2517,9 @@ based on Ross Jallo ed.</text>
               </Note>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <fret>2</fret>
@@ -2726,8 +2702,7 @@ based on Ross Jallo ed.</text>
           <KeySig>
             <linked>
               </linked>
-            <concertKey>0</concertKey>
-            <mode>major</mode>
+            <concertKey>-1</concertKey>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
